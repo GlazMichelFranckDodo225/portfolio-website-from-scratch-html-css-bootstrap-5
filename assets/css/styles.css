@@ -20,3 +20,8 @@ body {
 .card > img {
     height: 250px;
 }
+
+.testimonial > img {
+    height: 50px;
+    width: 50px;
+}
