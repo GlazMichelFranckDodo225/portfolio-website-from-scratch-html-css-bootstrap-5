@@ -29,3 +29,17 @@ body {
 #map {
     height: 300px;
 }
+
+.btn-success {
+    background-color: #0D6EFD;
+}
+
+.btn-success:hover {
+    background-color: green;
+    border-color: green;
+}
+
+.springframework {
+    color: #6DB33F;
+    /* color: #80EA6E; */
+}
